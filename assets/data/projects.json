@@ -1,0 +1,55 @@
+[
+	{
+		"id": 1,
+		"position": 1,
+		"published": true,
+		"client": "Client Name 01",
+		"project": "Project Name 01",
+		"information": {
+			"Concept & Design:": "Concept & Design Name",
+			"Development:": "Development Name",
+			"Technologies:": "List of Technologies",
+			"Product:": "Final Product"
+		},
+		"visuals": [
+			"sky.jpg",
+			"sky.jpg"
+		]
+	},
+	{
+		"id": 2,
+		"position": 2,
+		"published": true,
+		"client": "Client Name 02",
+		"project": "Project Name 02",
+		"information": {
+			"Concept & Design:": "Concept & Design Name",
+			"Development:": "Development Name",
+			"Technologies:": "List of Technologies",
+			"Product:": "Final Product"
+		},
+		"visuals": [
+			"sky.jpg",
+			"sky.jpg",
+			"sky.jpg",
+			"sky.jpg"
+		]
+	},
+	{
+		"id": 3,
+		"position": 3,
+		"published": true,
+		"client": "Client Name 03",
+		"project": "Project Name 03",
+		"information": {
+			"Concept & Design:": "Concept & Design Name",
+			"Development:": "Development Name",
+			"Technologies:": "List of Technologies",
+			"Product:": "Final Product"
+		},
+		"visuals": [
+			"sky.jpg",
+			"sky.jpg"
+		]
+	}
+]

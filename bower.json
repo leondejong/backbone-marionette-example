@@ -1,0 +1,40 @@
+{
+  "name": "backbone-marionette-example",
+  "version": "1.0.0",
+  "authors": [
+    "Léon de Jong"
+  ],
+  "description": "Backbone Marionette Example",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "javascript, backbone, marionette, example"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "http://leondejong.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.11",
+    "requirejs-text": "~2.0.12",
+    "jquery": "1.8.0 - 2.1.0",
+    "backbone": "1.0.0 - 1.1.2",
+    "underscore": "1.4.4 - 1.6.0",
+    "greensock": "~1.11.6",
+    "modernizr": "~2.7.2",
+    "backbone.marionette": "^1.8.3",
+    "backbone.babysitter": "^0.1.0",
+    "backbone.wreqr": "^1.0.0"
+  },
+  "devDependencies": {},
+  "resolutions": {
+    "underscore": ">=1.5.0"
+  }
+}
